@@ -14,15 +14,17 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Robert Raja Sundar.R
-tagline: Full Stack Developer
+tagline: Student
 pic: 1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: robertraj150698@gmail.com
 phone: 7708882228
+website: nil
 youtube: Robert Raj
 linkedin: ROBERT RAJA SUNDAR
 github: Robertraj7
+twitter: Robert RAJ
 
 
 # Tracker
